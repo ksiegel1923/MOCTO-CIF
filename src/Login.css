@@ -1,0 +1,43 @@
+.Login-page {
+  margin-top: 30px;
+}
+
+.Login-form {
+  border: solid 2px #042d36;
+  border-radius: 5px;
+  background-color: white;
+  margin: 10px;
+  padding: 25px;
+  margin-top: 30px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.FormElements {
+  width: 100%;
+}
+
+.TextFields {
+  width: 100%;
+  color: #042d36;
+}
+
+.Error {
+  width: 100%;
+}
+
+.Login__header {
+  font-size: 20px;
+  font-weight: 500;
+  color: #042d36;
+  text-align: center;
+}
+
+.Login__text {
+  font-size: 17px;
+  color: #042d36;
+  font-weight: 500;
+}
+
+.Login__nyc-logo {
+  margin-top: 10px;
+}

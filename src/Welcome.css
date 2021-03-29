@@ -1,0 +1,14 @@
+.Welcome__header {
+  font-weight: bold;
+  font-size: 22px;
+  color: #042d36;
+  margin: 20px;
+  text-align: center;
+}
+
+.Welcome__text {
+  font-size: 15px;
+  color: #042d36;
+  text-align: center;
+  margin-bottom: 20px;
+}
