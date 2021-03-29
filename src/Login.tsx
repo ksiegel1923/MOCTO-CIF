@@ -28,6 +28,8 @@ function Login() {
   }
 
   function login() {
+    setShowUsernameError(false);
+    setShowPasswordError(false);
     //Validate username and password:
     if (username === "mocto" && password === "HelloCodingItForward!") {
       //Go to welcome page if username and password are correct
